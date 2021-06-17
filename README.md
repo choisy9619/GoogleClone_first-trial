@@ -1,3 +1,3 @@
 # Googleweb_trial1
-HTML setting -> not bad
-CSS setting -> still need study
+<p> HTML setting -> not bad</p>
+<p>CSS setting -> still need study</p>
