@@ -1,0 +1,104 @@
+body {
+  margin: 0px;
+  padding: 0px;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+header {
+  display: flex;
+  justify-content: left;
+  align-items: center;
+  padding: 10px;
+}
+
+header .header-left {
+  display: flex;
+}
+
+header .header-left > span {
+  margin-right: 18px;
+}
+header .header-left > span > i {
+  color: rgb(red, green, blue);
+}
+header .header-left > a {
+  display: block;
+  font: size 13px;
+  padding: 0 7px;
+  text-align: center;
+  height: 28px;
+  color: rgb(107, 105, 105);
+}
+header .header-left > a.active {
+  border: bottom 2px;
+  color: black;
+  font-weight: bold;
+}
+
+section {
+  padding: 0 8px;
+}
+
+section .logo {
+  text-align: center;
+  margin-top: 30px;
+  font-size: 30px;
+}
+section .logo > span {
+  margin: 0 -4px;
+  font-weight: bold;
+  font-size: 70px;
+}
+
+section .logo > span:nth-of-type(1) {
+  color: #4284f3;
+  font-size: 100px;
+}
+section .logo > span:nth-of-type(2) {
+  color: #ea4335;
+}
+section .logo > span:nth-of-type(3) {
+  color: #fabc05;
+}
+
+section .logo > span:nth-of-type(4) {
+  color: #4284f3;
+}
+
+section .logo > span:nth-of-type(5) {
+  color: #44ab52;
+}
+section .logo > span:nth-of-type(6) {
+  color: #ea4335;
+}
+section .main-search {
+  width: 500px;
+  margin-top: 26px;
+  height: 36px;
+  border-radius: 22px;
+  outline: none;
+  box-sizing: border-box;
+  padding-left: 36px;
+  text-align: center;
+}
+
+footer {
+  background-color: gray;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+
+footer > p:nth-of-type(1) {
+  padding: 8px 12px;
+  font-size: 16px;
+  color: #797979;
+}
+
+footer > p:nth-of-type(2){
+    border-top: 1px; solid
+}
