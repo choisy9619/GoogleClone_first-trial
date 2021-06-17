@@ -1,3 +1,3 @@
 # Googleweb_trial1
-<p> HTML setting -> not bad</p>
-<p>CSS setting -> still need study</p>
+<p> 1) HTML setting -> not bad</p>
+<p> 2) CSS setting -> still need study</p>
